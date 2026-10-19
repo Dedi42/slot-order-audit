@@ -1,5 +1,3 @@
-# slot-order-audit
-
 # Slot-order audit
 
 Code for the paper **"Outcome-Agnostic Slot-Order Auditing of Semiconductor Lots: Chamber, Start-of-Lot, and Drift Signatures in Public Wafer Maps and Two Production Lines"**
